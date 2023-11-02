@@ -37,7 +37,7 @@ Part of my Game IDs:
 - Steam: [SkyEye_FAST](https://steamcommunity.com/id/SkyEye_FAST/)
 - Xbox: SkyEye FAST / Masertwer
 - Minecraft: Java Edition: SkyEye_FAST
-- 
+
 ## 联系 / Contact 💬
 
 欢迎访问我自建的Wiki：[**奇葩栖息地**](https://mh.wdf.ink)。
