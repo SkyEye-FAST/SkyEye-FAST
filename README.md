@@ -48,5 +48,5 @@ Welcome to visit my self-built Wiki: [**Miracle Habitat**](https://mh.wdf.ink/).
 - Email: [skyeyefast@foxmail.com](mailto:skyeyefast@foxmail.com) / [skyeyefast@outlook.com](mailto:skyeyefast@outlook.com)
 - X: [@SkyEye_FAST](https://twitter.com/SkyEye_FAST)
 - Discord: SkyEye_FAST
-- Minecraft Wiki (ZH): [SkyEye_FAST](https://zh.miencraft.wiki/w/User:SkyEye_FAST)
+- Minecraft Wiki (ZH): [SkyEye_FAST](https://zh.minecraft.wiki/w/User:SkyEye_FAST)
 - MCBBS: [SkyEye_FAST](http://www.mcbbs.net/?2528514)
