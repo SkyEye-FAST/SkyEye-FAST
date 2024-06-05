@@ -1,10 +1,10 @@
 # 你好！/ Hello there! 👋
 
-这里是SkyEye_FAST，也可以叫我Masertwer。
+这里是SkyEye_FAST（SkyE），也可以叫我Masertwer。
 
 现在是某苏北三线小城市的一名*绯雾*高中~~牲~~生。
 
-You can call me SkyEye_FAST, or Masertwer。
+You can call me SkyEye_FAST (aka SkyE), or Masertwer。
 
 Now I am a *useless* high school ~~beast~~ student in a small third-tier city in northern Jiangsu.
 
@@ -14,7 +14,7 @@ Now I am a *useless* high school ~~beast~~ student in a small third-tier city in
 
 所作所为若有不妥，还请**不吝赐教**，为此不胜感激。
 
-I'm an editor of **Minecraft Wiki (ZH)**, appearing in various wikis from time to time. I'm also a member of the **Minecraft Simplified Chinese translation team**, and I've probably done my tiny part. 
+I'm an editor of **Minecraft Wiki (ZH)**, appearing in various wikis from time to time. I'm also a member of the **Minecraft Simplified Chinese Translation Team**, and I've probably done my tiny part. 
 
 If there's something wrong with what I did, please **feel free** to enlighten me. I would be most grateful.
 
@@ -46,7 +46,6 @@ Welcome to visit my self-built Wiki: [**Miracle Habitat**](https://mh.wdf.ink/).
 
 - Bilibili: [SkyEye_FAST](https://space.bilibili.com/404660313)
 - Email: [skyeyefast@foxmail.com](mailto:skyeyefast@foxmail.com) / [skyeyefast@outlook.com](mailto:skyeyefast@outlook.com)
-- X: [@SkyEye_FAST](https://twitter.com/SkyEye_FAST)
+- X: [@SkyEye_FAST](https://x.com/SkyEye_FAST)
 - Discord: SkyEye_FAST
 - Minecraft Wiki (ZH): [SkyEye_FAST](https://zh.minecraft.wiki/w/User:SkyEye_FAST)
-- MCBBS: [SkyEye_FAST](http://www.mcbbs.net/?2528514)
