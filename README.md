@@ -9,11 +9,11 @@
 
 这里是SkyEye_FAST（SkyE），也可以叫我Masertwer。
 
-现在是某苏北三线小城市的一名*绯雾*高中~~牲~~生。
+我来自某苏北三线小城市，现在就读于西北工业大学。
 
 You can call me SkyEye_FAST (aka SkyE), or Masertwer。
 
-Now I am a *useless* high school ~~beast~~ student in a small third-tier city in northern Jiangsu.
+I come from a third-tier small city in northern Jiangsu, and I am currently studying at Northwestern Polytechnical University.
 
 ## 自我介绍 / Self-introduction 🌱
 
@@ -27,9 +27,9 @@ If there's something wrong with what I did, please **feel free** to enlighten me
 
 ## 项目 / Project 🔭
 
-作为**茶馆工作室**的一名成员，我主要负责一些Minecraft基岩版方面的工作。我也会用Python或C++来写一些有意思的程序，发布在个人的仓库中。
+作为**茶馆工作室**的一名成员，我主要负责一些Minecraft基岩版方面的工作。我也会用Python或JavaScript/TypeScript来写一些有意思的程序，发布在个人的仓库中。
 
-As a member of **Teahouse Studios**, I'm mainly responsible for some work on Minecraft: Bedrock Edition. I also use Python or C++ to write some interesting programs, and publish them in my personal repositories.
+As a member of **Teahouse Studios**, I'm mainly responsible for some work on Minecraft: Bedrock Edition. I also use Python or JavaScript/TypeScript to write some interesting programs, and publish them in my personal repositories.
 
 ## 游戏 / Game 🎮
 
@@ -43,7 +43,7 @@ Part of my Game IDs:
 - Arcaea: 258847344 (SkyEyeFAST)
 - Steam: [SkyEye_FAST](https://steamcommunity.com/id/SkyEye_FAST/)
 - Xbox: SkyEye FAST / Masertwer
-- Minecraft: Java Edition: SkyEye_FAST
+- Minecraft (Java Edition): SkyEye_FAST / Masertwer
 
 ## 联系 / Contact 💬
 
